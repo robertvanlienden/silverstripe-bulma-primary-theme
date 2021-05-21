@@ -1,0 +1,23 @@
+{
+    "name": "robertvanlienden/silverstripe-bulma-primary-theme",
+    "description": "A simple SilverStripe primary colored theme based on the Bulma CSS Framework",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert van Lienden",
+            "homepage": "https://www.robertvanlienden.nl"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=4.0"
+    },
+    "extra": {
+        "expose": [
+            "css",
+            "javascript"
+        ]
+    }
+}

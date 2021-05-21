@@ -1,0 +1,13 @@
+// Section
+
+section {
+    a {
+        text-decoration: underline;
+        transition: all;
+        transition-duration: 6.2s;
+        &:hover{
+            text-decoration: none;
+
+        }
+    }
+}
