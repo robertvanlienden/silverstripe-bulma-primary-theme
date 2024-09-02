@@ -14,7 +14,7 @@ Visit (https://www.robertvanlienden.nl/silverstripe-themes/) for a overview with
 ## Requirements
 
 ### Installation
-- SilverStripe 4
+- SilverStripe 4 & 5
 
 ### Development
 - Node Package Manager (npm)
